@@ -1,0 +1,6 @@
+[submodule "2024"]
+	path = 2024/aoc2024
+	url = https://github.com/wanders00/aoc2024
+[submodule "2023"]
+	path = 2023/aoc2023
+	url = https://github.com/wanders00/aoc2023
